@@ -1,0 +1,55 @@
+/**** left side bar ****/
+h1 {
+    color: #6B2737;
+    font-size: 2em
+}
+
+
+h2 {
+    color: #002642;
+    font-size: 1.5em
+}
+
+#education {
+    margin-top: 2em
+}
+
+h4 {
+    color: black;
+    font-size: 1.2em
+}
+
+.word {
+    text-align: center;
+}
+
+body {
+    background-color: #E5DADA
+}
+
+#left_col {
+    background-color: #E08E45
+}
+
+.img-circle {
+    border-radius: 50%;
+    display: block;
+    margin-left: 104;
+    margin-right: auto;
+}
+
+ul {
+    list-style: none;
+}
+
+.space {
+    margin-top: 3em
+}
+
+.wee {
+    color: blue
+}
+
+.we {
+    margin-top: 50
+}
